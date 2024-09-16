@@ -26,3 +26,6 @@ go.work.sum
 
 # Miscellaneous
 .DS_Store
+
+# Air directories
+tmp/
